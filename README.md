@@ -1,4 +1,4 @@
-# 📊 Amazon Product Analysis & Recommendation System
+# 📊 Amazon Product Analysis & Recommendation System.
 
 ## 📌 Project Overview
 This project analyzes over 1,400 Amazon products to uncover key factors influencing customer satisfaction, product popularity, and pricing strategies.
